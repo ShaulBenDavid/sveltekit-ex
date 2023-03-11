@@ -1,5 +1,6 @@
 <script>
-	const product = data.product;
+	export let data;
+	$: product = data.product;
 </script>
 
 <h1>{product.title}</h1>
