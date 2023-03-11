@@ -15,4 +15,5 @@
 <h1>Hello world</h1>
 <a href="/blog">Blog</a>
 <a href="/products">Products</a>
+<a href="/items">items</a>
 <button on:click={handleClick}>place holder</button>
