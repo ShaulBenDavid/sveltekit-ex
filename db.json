@@ -25,6 +25,18 @@
 			"price": 549
 		}
 	],
+	"wix-stock": {
+		"symbol": "wix",
+		"price": 90
+	},
+	"apple-stock": {
+		"symbol": "apple",
+		"price": 190
+	},
+	"tesla-stock": {
+		"symbol": "tesla",
+		"price": 920
+	},
 	"featured-products": [
 		{
 			"id": 0,
