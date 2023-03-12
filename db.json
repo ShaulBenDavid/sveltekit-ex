@@ -24,5 +24,31 @@
 			"description": "An apple mobile which is nothing like apple",
 			"price": 549
 		}
+	],
+	"featured-products": [
+		{
+			"id": 0,
+			"title": "iPhone 19",
+			"description": "An apple mobile which is nothing like apple",
+			"price": 549
+		},
+		{
+			"id": 1,
+			"title": "iPhone 92",
+			"description": "An apple mobile which is nothing like apple",
+			"price": 549
+		},
+		{
+			"id": 2,
+			"title": "iPhone 39",
+			"description": "An apple mobile which is nothing like apple",
+			"price": 549
+		},
+		{
+			"id": 3,
+			"title": "iPhone 49",
+			"description": "An apple mobile which is nothing like apple",
+			"price": 549
+		}
 	]
 }
